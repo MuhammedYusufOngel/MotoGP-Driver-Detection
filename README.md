@@ -9,7 +9,7 @@ Below are the training metrics and confusion matrix proving the model's high gen
 
 | Training Progress & Loss Curves | Normalized Confusion Matrix |
 |:---:|:---:|
-| ![Training Results](results.png) | ![Confusion Matrix](confusion_matrix_normalized.jpg) |
+| ![Training Results](./train/results.png) | ![Confusion Matrix](./train/confusion_matrix_normalized.jpg) |
 
 *Key Achievement:* Successfully solved the **Class Imbalance** problem between identical team liveries (e.g., Pedro Acosta vs. Brad Binder) through targeted data variance engineering.
 
