@@ -1,0 +1,12 @@
+# Veri setleri ve Ham Videolar
+dataset_final/
+*.mp4
+*.avi
+*.zip
+*.mkv
+
+# Büyük Model Ağırlıkları
+*.pt
+*.onnx
+runs/
+videos/
